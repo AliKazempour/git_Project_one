@@ -4,3 +4,6 @@ def factorial(n):
     else:
         return n*factorial(n-1)
 print("Hello Ali")        
+
+for i in range(1,5):
+    print("Your Friendly Neighborhood Spiderman:)")
