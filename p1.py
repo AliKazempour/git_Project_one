@@ -5,6 +5,9 @@ HelloGit()
 
 print(2*3)
 
+MyEmail="AliKazempoor83@Gmail.com"
+print(MyEmail)
+
 
 x=int(input("Enter the number:"))
 print("*"*x)
